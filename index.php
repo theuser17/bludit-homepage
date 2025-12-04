@@ -87,7 +87,7 @@
 		</ul>
 	</nav>
 	<div class="hero">
-		<h1 class="hero__title">Bludit</h1>
+		<h1 class="hero__title">بلودیت فارسی</h1>
 		<p class="hero__description"><?php l('bludit-slogan1') ?></p>
 		<p class="hero__description"><?php l('bludit-slogan2') ?></p>
 	</div>
