@@ -12,8 +12,8 @@ define('NEWSLETTER', 'https://www.bludit.com/newsletter.php');
 include('functions.php');
 
 // Language passed via $_GET['l']
-$currentLanguage = 'en';
-$acceptedLanguages = array('en', 'de', 'es', 'ru', 'ja');
+$currentLanguage = 'fa';
+$acceptedLanguages = array('en', 'de', 'es', 'ru', 'ja', 'fa');
 if (isset($_GET['l'])) {
 	if (in_array($_GET['l'], $acceptedLanguages)) {
 		$currentLanguage = $_GET['l'];
