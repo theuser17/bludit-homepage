@@ -1,5 +1,5 @@
 {
-	"demo": "Demo",
+	"demo": "پیشنمایش",
 	"documentation": "مستندات",
 	"themes": "پوسته ها",
 	"plugins": "پلاگین ها",
@@ -19,8 +19,8 @@
 	"privacy": "حریم خصوصی",
 	"terms-and-conditions": "شرایط و ضوابط",
 
-	"head-title": "Bludit - Flat-File CMS",
-	"head-description": "Bludit is a web application to build your own website or blog in seconds, it's completely free and open source. Markdown support.",
+	"head-title": "بلودیت - سیستم مدیریت محتوای فلت فایل",
+	"head-description": "بلودیت یک برنامه وب برای ساخت وبسایت یا وبلاگ خود در چند ثانیه است، این برنامه کاملا رایگان و متن باز است و از Markdown پشتیبانی می‌کند.",
 
 	"flat-file": "فلت فایل",
 	"seo-friendly": "سئوی دوستانه",
